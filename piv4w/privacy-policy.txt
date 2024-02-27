@@ -4,7 +4,7 @@ This document is used to inform readers regarding our policies with the collecti
 If you choose to use the application, then you agree to the statements of this Privacy Policy document.
 
 Information Collection and Use:
-The application does not collect or transmit any personal information. The application does not transmit any file opened by user to remote endpoints.
+This application does not collect or transmit any user's personally identifiable information. The application does not transmit any file opened by user to remote endpoints. No personal information is used, stored, secured or disclosed by services this application works with. We do not sell, trade, or otherwise transfer to outside parties your personal identifiable information. Personal information includes all information or data that could reasonably be used to identify a person. Examples of personal information include: contacts, photos, phone number, audio & video recordings, location, SMS or other text communication, screen shots, unique account identifiers, unique identifiers based on the computer's hardware, and in some cases, combined browsing history.
 
 Log Data:
 We want to inform you that whenever you use the application, in a case of an error in the app we collect data and information (through third party products) on your device called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app, the time and date of your use of the application, and other statistics.
